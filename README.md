@@ -39,6 +39,7 @@
 
 - **Software Development**:  
   - Object-Oriented Programming (OOP)
+  - Design Patterns
   - Data Structures and Algorithms
   - Software Testing and Validation
   - Version Control with Git
