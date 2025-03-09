@@ -93,5 +93,5 @@
 
 ## 📬 Let's Connect!
 📧 Email: [yfayez99@gmail.com](mailto:yfayez99@gmail.com)  
-🔗 LinkedIn: [[linkedin.com/in/YousefFayez](https://www.linkedin.com/in/yousef-fayez-16344a1b8/)]  
+🔗 LinkedIn: [linkedin.com/in/YousefFayez](https://www.linkedin.com/in/yousef-fayez-16344a1b8/)
 🐙 GitHub: [github.com/YousefFayez20](https://github.com/YousefFayez20)
