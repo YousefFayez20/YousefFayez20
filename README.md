@@ -84,10 +84,10 @@
 
 
 ## 📈 GitHub Stats
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefFayez20&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=YousefFayez20&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 ## 📬 Let's Connect!
