@@ -84,8 +84,7 @@
 
 
 ## 📈 GitHub Stats
-
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefFayez20&show_icons=true&theme=radical&count_private=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefFayez20&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=YousefFayez20&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
