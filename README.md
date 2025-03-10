@@ -12,6 +12,7 @@
 📌 **Project:** *Graduation project focusing on AUTOSAR Tooling and Technologies in the Automotive Software Industry.*  
 🎯 **Objective:** Developing advanced tooling solutions for AUTOSAR-based automotive software.  
 🤝 **Sponsorship:** Sponsored by **Garraio, LLC**.  
+![Garraio, LLC Logo]([https://garraio.com/wp-content/uploads/2021/05/logo.png](https://media.licdn.com/dms/image/v2/C4D0BAQH6aK8cg4n-4g/company-logo_200_200/company-logo_200_200/0/1638131319291?e=1749686400&v=beta&t=ePIms95hfEfnVuspLmGduH8WQE20RFC6Lrh1VjpjsIQ))
 
 ---
 📌 **Currently studying:** AUTOSAR, OSEK OS, Backend Development
@@ -93,7 +94,6 @@
 ## 🚀 **GitHub Stats & Activity**
 <div align="center">
 
-### 📊 **GitHub Stats**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefFayez20&layout=compact&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=YousefFayez20&theme=radical&hide_border=true)](https://git.io/streak-stats)  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
