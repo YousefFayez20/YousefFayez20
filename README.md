@@ -6,7 +6,14 @@
 - **Ain Shams University & East London University**  
   *Bachelor of Computer Engineering and Software Systems (2020 - 2025)*  
   *GPA: 2.93*
+---
 
+## 🎓 **Currently in AUTOSAR Graduation Project**
+📌 **Project:** *Graduation project focusing on AUTOSAR Tooling and Technologies in the Automotive Software Industry.*  
+🎯 **Objective:** Developing advanced tooling solutions for AUTOSAR-based automotive software.  
+🤝 **Sponsorship:** Sponsored by **Garraio, LLC**.  
+
+---
 📌 **Currently studying:** AUTOSAR, OSEK OS, Backend Development
 
 ---
@@ -83,11 +90,15 @@
 ---
 
 
-## 📈 GitHub Stats
+## 🚀 **GitHub Stats & Activity**
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefFayez20&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YousefFayez20&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 **GitHub Stats**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefFayez20&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=YousefFayez20&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefFayez20&show_icons=true&theme=radical&count_private=true)  
+</div>
+
 ---
 
 ## 📬 Let's Connect!
