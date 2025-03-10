@@ -85,9 +85,9 @@
 
 ## 📈 GitHub Stats
 
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefFayez20&show_icons=true&theme=radical)
+![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefFayez20&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefFayez20&layout=compact&theme=radical)
-![Yousef's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YousefFayez20&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YousefFayez20&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
