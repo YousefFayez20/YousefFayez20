@@ -5,7 +5,7 @@
 🚀 **Education**:  
 - **Ain Shams University & East London University**  
   *Bachelor of Computer Engineering and Software Systems (2020 - 2025)*  
-  *GPA: 2.93*
+  *GPA: 3.0*
 ---
 
 ## 🎓 **Currently in AUTOSAR Graduation Project**
