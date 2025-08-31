@@ -109,7 +109,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="nestjs logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=c++" height="60" alt="nestjs logo"  />
+   <img src="https://skillicons.dev/icons?i=cplusplus" height="60" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
