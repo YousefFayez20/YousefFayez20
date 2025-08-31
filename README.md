@@ -100,8 +100,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="typescript logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="tailwindcss logo"  />
@@ -110,7 +109,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=leetcode" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
