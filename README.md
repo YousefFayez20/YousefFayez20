@@ -1,6 +1,6 @@
 # Hi there, I'm Yousef Fayez! 👋
 
-**`Computer Engineering & Software Systems Student | Embedded Systems Enthusiast`**
+**`Computer Engineering & Software Systems Student | Software Developer`**
 
 🚀 **Education**:  
 - **Ain Shams University & East London University**  
