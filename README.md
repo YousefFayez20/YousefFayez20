@@ -8,7 +8,7 @@
   *GPA: 3.0*
 ---
 
-## 🎓 **Currently in AUTOSAR Graduation Project**
+## 🎓 **Graduation Project**
 📌 **Project:** *Graduation project focusing on AUTOSAR Tooling and Technologies in the Automotive Software Industry.*  
 🎯 **Objective:** Developing advanced tooling solutions for AUTOSAR-based automotive software.  
 🤝 **Sponsorship:** Sponsored by **Garraio, LLC**.  
