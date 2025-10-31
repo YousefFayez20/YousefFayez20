@@ -68,9 +68,6 @@ I focus on building **scalable RESTful APIs**, applying **clean architecture pri
 
 ---
 
-
----
-
 ## 📬 Let’s Connect
 
 <p align="center">
