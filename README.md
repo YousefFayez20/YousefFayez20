@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Computer Engineering and Software Systems student** specializing in **Java Backend Development**.  
+I’m a **Computer Engineering and Software Systems Graduate** specializing in **Java Backend Development**.  
 I focus on building **scalable RESTful APIs**, applying **clean architecture principles**, and writing **maintainable, testable, and modular code** using **Spring Boot**.
 
 💡 What defines my work:
@@ -68,9 +68,6 @@ I focus on building **scalable RESTful APIs**, applying **clean architecture pri
 
 ---
 
-## 🌍 Languages
-- **English** — Professional Proficiency *(IELTS 6.5)*  
-- **Arabic** — Native Speaker
 
 ---
 
@@ -85,4 +82,3 @@ I focus on building **scalable RESTful APIs**, applying **clean architecture pri
 
 ---
 
-⭐ *If my profile or code inspires you, feel free to star my repositories!*
