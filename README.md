@@ -75,10 +75,6 @@ I focus on building **scalable RESTful APIs**, applying **clean architecture pri
 
 ---
 
-## 🌍 Languages
-- **English** — Professional Proficiency *(IELTS 6.5)*  
-- **Arabic** — Native Speaker
-
 ---
 
 ## 📬 Let’s Connect
