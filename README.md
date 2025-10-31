@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hey, I'm Yousef Fayez</h1>
 
 <p align="center">
-  <b>Java Backend Developer | Computer Engineering Graduate</b><br>
-  <a href="mailto:youseffayez2002@gmail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/yousef-fayez-16344a1b8/">💼 LinkedIn</a> • 
-  <a href="https://github.com/YousefFayez20">🐙 GitHub</a> • 
-  <a href="https://leetcode.com/u/youseffayez2002/">💡 LeetCode</a>
+  <b>Java Backend Developer | Computer Engineering Graduate</b>
 </p>
 
 ---
