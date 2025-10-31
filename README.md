@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Yousef Fayez</h1>
 
 <p align="center">
-  <b>Java Backend Developer | Computer Engineering Student</b><br>
+  <b>Java Backend Developer | Computer Engineering Graduate</b><br>
   <a href="mailto:youseffayez2002@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/yousef-fayez-16344a1b8/">💼 LinkedIn</a> • 
   <a href="https://github.com/YousefFayez20">🐙 GitHub</a> • 
@@ -39,26 +39,23 @@ I focus on building **scalable RESTful APIs**, applying **clean architecture pri
 
 <div align="center">
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks & Libraries**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
 </div>
 
 ---
@@ -75,6 +72,10 @@ I focus on building **scalable RESTful APIs**, applying **clean architecture pri
 
 ---
 
+## 🌍 Languages
+- **English** — Professional Proficiency *(IELTS 6.5)*  
+- **Arabic** — Native Speaker
+
 ---
 
 ## 📬 Let’s Connect
@@ -88,4 +89,4 @@ I focus on building **scalable RESTful APIs**, applying **clean architecture pri
 
 ---
 
-
+⭐ *If my profile or code inspires you, feel free to star my repositories!*
