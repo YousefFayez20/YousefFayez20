@@ -78,4 +78,8 @@ I focus on building **scalable RESTful APIs**, applying **clean architecture pri
 </p>
 
 ---
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=YousefFayez20&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
